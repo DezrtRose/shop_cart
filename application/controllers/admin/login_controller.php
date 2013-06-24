@@ -2,9 +2,6 @@
 
     class Login_controller extends CI_Controller {
 
-
-//        testing;;;;
-
         public function __construct() {
             parent::__construct();
             if ( session_check() ) {

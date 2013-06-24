@@ -62,7 +62,7 @@
     <file path="/event_page_view.php" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371816175831" ignored="false" />
     <file path="/paypal_form_view.php" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371970225329" ignored="false" />
     <file path="/admin_bootstrap.css" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371985338339" ignored="false" />
-    <file path="/Dummy.txt" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1372077004271" ignored="false" />
+    <file path="/Dummy.txt" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1372077223859" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <file leaf-file-name="login_controller.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/admin/login_controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.2268431">
+            <state line="2" column="50" selection-start="57" selection-end="57" vertical-scroll-proportion="0.07561437">
               <folding />
             </state>
           </provider>
@@ -320,7 +320,11 @@
       <created>1372077006466</created>
       <updated>1372077006466</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="git_push">
+      <created>1372077227268</created>
+      <updated>1372077227268</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -505,7 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/login_controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.2268431">
+        <state line="2" column="50" selection-start="57" selection-end="57" vertical-scroll-proportion="0.07561437">
           <folding />
         </state>
       </provider>
