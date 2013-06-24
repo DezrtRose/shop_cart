@@ -17,6 +17,7 @@
             $this -> load -> view('admin/template/nav_bar_view');
             $this -> load -> view('admin/customer_view');
             $this -> load -> view('admin/template/footer_view');
+            test;
         }
 
         public function delete_customer() {
