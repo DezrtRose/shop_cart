@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a534cf3d-2af2-4f1d-ad69-37a49a15321f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/admin/customer_controller.php" afterPath="$PROJECT_DIR$/application/controllers/admin/customer_controller.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shop_cart.iws" />
@@ -61,7 +62,7 @@
     <file path="/event_page_view.php" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371816175831" ignored="false" />
     <file path="/paypal_form_view.php" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371970225329" ignored="false" />
     <file path="/admin_bootstrap.css" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371985338339" ignored="false" />
-    <file path="/Dummy.txt" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1372076298898" ignored="false" />
+    <file path="/Dummy.txt" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1372076303353" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,7 @@
       <file leaf-file-name="customer_controller.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/admin/customer_controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="17" selection-start="733" selection-end="733" vertical-scroll-proportion="0.21259843">
+            <state line="18" column="64" selection-start="715" selection-end="715" vertical-scroll-proportion="0.70866144">
               <folding />
             </state>
           </provider>
@@ -250,7 +251,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -316,19 +317,23 @@
       <created>1372076300253</created>
       <updated>1372076300253</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="no user_guide">
+      <created>1372076305064</created>
+      <updated>1372076305064</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22121212" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22121212" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -498,7 +503,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/customer_controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="733" selection-end="733" vertical-scroll-proportion="0.21259843">
+        <state line="18" column="64" selection-start="715" selection-end="715" vertical-scroll-proportion="0.70866144">
           <folding />
         </state>
       </provider>
