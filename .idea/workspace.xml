@@ -61,7 +61,7 @@
     <file path="/event_page_view.php" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371816175831" ignored="false" />
     <file path="/paypal_form_view.php" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371970225329" ignored="false" />
     <file path="/admin_bootstrap.css" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1371985338339" ignored="false" />
-    <file path="/Dummy.txt" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1372076278161" ignored="false" />
+    <file path="/Dummy.txt" changelist="a534cf3d-2af2-4f1d-ad69-37a49a15321f" time="1372076298898" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +312,11 @@
       <created>1372076292034</created>
       <updated>1372076292034</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="no user_guide">
+      <created>1372076300253</created>
+      <updated>1372076300253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
